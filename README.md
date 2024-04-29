@@ -1,2 +1,1 @@
-# Agent-Application
- Agent Application for Call Centres
+# Hello Sample SIP Client.
